@@ -35,12 +35,24 @@ Ins selbes Subnetz wie der Router wechseln.
 
 # Namenskonvenzion
 
-Wir haben uns entschieden unsere Geräte so zu nennen:
-Beispiele:
+Wir haben uns entschieden unsere Geräte so zu nennen: 
+  
+  
+Beispiele:    
 yimtrt001  ,  yimtap001  ,  yimtwlan
 
-yi = Firmenname
+|Teilstk.| Beschreibung |
+|-------|-----------------------|
+| yi    | Firmenname            |
+| mt    | Abteilung Marketing   |
+| rt/ap | Gerät (Router/Access Point) |
+| 001   | Gerät Nr.             |
+
+
+
+
+ 
 mt = Abteilung Marketing
 rt / ap = Gerät (Router / Access Point)
-001 = Gerät Nr.
+ = Gerät Nr.
 
