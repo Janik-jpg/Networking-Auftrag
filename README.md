@@ -33,7 +33,7 @@ Ins selbes Subnetz wie der Router wechseln.
 7.	Subnetzmaske mit dem deinem Subnetz
 
 
-# Namenskonvenzion
+# Namenskonvention
 
 Wir haben uns entschieden unsere Geräte so zu nennen: 
   
